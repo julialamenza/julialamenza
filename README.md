@@ -3,7 +3,7 @@
 ###### If you need more info check my [Linkedin](https://www.linkedin.com/in/jlamenza/)
 
 - :book: I’m currently learning about observability, Kubernetes, Go and Python
-- 💬 Ask me about >> Travel, Books, Series, Sports, Genetics, Tech, Ah also beer :sunglasses:
+- 💬 Ask me about >> Travel, Books, Series, Sports, Genetics, Tech, Life in Europe and I love to talk about craftbeer as well :sunglasses:
 
 <BR>
 
