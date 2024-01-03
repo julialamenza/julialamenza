@@ -1,11 +1,12 @@
-### Hi there 👋  I work as DevOps | SRE 
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*jgaS2qyYk0rMl4rb" alt="Alt text for image" width="400" height="400"/>
 
-###### If you need more info check my [Linkedin](https://www.linkedin.com/in/jlamenza/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/julialamenza)](https://github.com/julialamenza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlamenza/)](https://www.linkedin.com/in/jlamenza/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jlamenza)](https://twitter.com/jlamenza)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://youtube.com/jlamenza)](https://youtube.com/jlamenza)
 
-- :book: I’m currently learning about observability, Kubernetes, Go and Python
-- 💬 Ask me about >> Travel, Books, Series, Sports, Genetics, Tech, Life in Europe and I love to talk about craftbeer as well :sunglasses:
 
-<BR>
-
-[<img src='http://www.entypo.com/images/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jlamenza/)  [<img src='http://www.entypo.com/images/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/julialamenza/)  [<img src='http://www.entypo.com/images/twitter.svg' alt='twitter' height='30'>](https://twitter.com/jlamenza)  
-
+- 🤓 I’m currently learning Golang and Observability
+- 💬 Ask me about Cloud, IAC, Microservices and... more! 
+- 📫 How to reach me: jlamenza@gmail.com
+- 👽 Pronouns: She / Her
