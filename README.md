@@ -10,3 +10,15 @@
 - 💬 Ask me about Cloud, IAC, Microservices and... more! 
 - 📫 How to reach me: jlamenza@gmail.com
 - 👽 Pronouns: She / Her
+
+
+## Talks:
+- [DW Europe/Latin America](https://developerweekmanagement2024.sched.com/type/DW+Europe%2FLatin+America%3A+Cloud+%26+Data+%26+Digital+Transformation): eBPF, and Why Does It Matter for Observability?
+- [HashiTalk España](https://events.hashicorp.com/hashitalksespana): Utilización y reutilización de módulos con Terraform
+- [Linuxtips #FiqueEmCasaConf](https://www.youtube.com/watch?v=Q7J3iK0mxSE): Desbravando um mundo novo: SRE, DevOps, carreira e afins
+- [KCD Brazil](https://community.cncf.io/kcd-brasil/): Kustomize na prática
+- [TDC](https://thedevconf.com): Kustomize na prática
+- [Devopsdays Porto Alegre](https://devopsdays.org): Mulheres podem ser exemplos na tecnologia? Sim!
+- [Devopsdays Rio de Janeiro](https://devopsdays.org): Mulheres podem ser exemplos na tecnologia? Sim!
+- [DevOpsLisbon](linkedin.com/in/devops-lisbon
+): SRE is Devops or Devops is SRE? 
