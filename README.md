@@ -21,4 +21,5 @@
 - [Devopsdays Porto Alegre](https://devopsdays.org): Mulheres podem ser exemplos na tecnologia? Sim!
 - [Devopsdays Rio de Janeiro](https://devopsdays.org): Mulheres podem ser exemplos na tecnologia? Sim!
 - [DevOpsLisbon](linkedin.com/in/devops-lisbon
-): SRE is Devops or Devops is SRE? 
+): SRE is Devops or Devops is SRE?
+- [SOSS Community Day Europe 2024](https://www.youtube.com/watch?v=nHSKXQZd9CY):Play, Learn, Secure: The Power of Gamification in Security Training
