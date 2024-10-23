@@ -6,9 +6,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://youtube.com/jlamenza)](https://youtube.com/jlamenza)
 
 
-- 🤓 I’m currently learning Golang and Observability
-- 💬 Ask me about Cloud, IAC, Microservices and... more! 
-- 📫 How to reach me: jlamenza@gmail.com
+- 🤓 I’m currently learning about DatOps and some other topics
+- 💬 Have questions about Cloud, IaC, FinOps, or anything else I might be able to help with? Just ask!
 - 👽 Pronouns: She / Her
 
 
