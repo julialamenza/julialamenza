@@ -12,6 +12,9 @@
 
 
 ## Talks:
+- [HashiTalks America Latina](https://www.youtube.com/watch?v=kliQaDm0fbA):Terraform x FinOps: Una alianza de valor
+
+- [HashiTalks America Latina](https://www.youtube.com/watch?v=kliQaDm0fbA):Asegurando y escalando AWS con Terraform, Vault y Veeam: Una guía práctica
 - [Devops Days Campinas 2024](https://devopsdays.org/events/2024-campinas/program):Iniciando com FinOps: Otimizando Custos na Nuvem
 - [SOSS Community Day Europe 2024](https://www.youtube.com/watch?v=nHSKXQZd9CY):Play, Learn, Secure: The Power of Gamification in Security Training
 - [DW Europe/Latin America](https://developerweekmanagement2024.sched.com/type/DW+Europe%2FLatin+America%3A+Cloud+%26+Data+%26+Digital+Transformation): eBPF, and Why Does It Matter for Observability?
