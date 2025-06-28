@@ -12,7 +12,7 @@
 
 
 ## Talks:
-- [CfgMgmtCamp ]([https://www.youtube.com/watch?v=kliQaDm0fbA](https://cfp.cfgmgmtcamp.org/ghent2025/talk/PVN3XX/)):Turning Cloud Nightmares into Cost-Saving Dreams
+- [CfgMgmtCamp](https://www.youtube.com/watch?v=kliQaDm0fbA](https://cfp.cfgmgmtcamp.org/ghent2025/talk/PVN3XX/):Turning Cloud Nightmares into Cost-Saving Dreams
 - [FOSDEM](https://fosdem.org/2025/schedule/event/fosdem-2025-5103-unearthing-the-impact-of-survivorship-bias-on-women-in-foss-to-build-more-inclusive-communities/):Unearthing the impact of survivorship bias on women in FOSS to build more inclusive communities
 - [HashiTalks America Latina](https://www.youtube.com/watch?v=kliQaDm0fbA):Terraform x FinOps: Una alianza de valor
 
